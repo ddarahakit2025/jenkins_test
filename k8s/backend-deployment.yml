@@ -20,5 +20,5 @@ spec:
     spec:
       containers:
         - name: backend-blue
-          image: ddarahakit2025/backend:$BUILD_ID
+          image: ddarahakit2025/backend:latest
       terminationGracePeriodSeconds: 0
