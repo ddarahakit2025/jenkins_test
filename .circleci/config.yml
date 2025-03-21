@@ -19,7 +19,7 @@ jobs:
           root: .
           paths:
             - build/libs/*.jar
-workflow:
+workflows:
   version: 2
   build-and-deploy:
     jobs:
