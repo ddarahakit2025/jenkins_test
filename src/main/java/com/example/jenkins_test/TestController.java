@@ -11,6 +11,6 @@ public class TestController {
     public String ex01() {
         System.out.println("test");
 
-        return "23";
+        return "24";
     }
 }
